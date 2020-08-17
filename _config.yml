@@ -3,7 +3,9 @@ description: Todo lo aprendido en el  parcial
 author: Samuel Valencia 
 avatar: /logo.png
 email: samuelvalencia780@gmail.com
-
+---
+Mi nombre es Dennys Samuel Valencia Mosquera, tengo 19 años me gusta el deporte aunque actualmente no lo práctico, me gustan hacer deportes extremos cuando viajo o descubrir cosas nuevas, estudio Ingeniería en Software  y la finalidad de esta página web es poder enseñar lo aprendido en este parcial en la Universidad Estatal de Guayaquil.
+---
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
