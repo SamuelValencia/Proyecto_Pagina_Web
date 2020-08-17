@@ -22,11 +22,6 @@ paginate: 10
 
 # Jekyll
 # =====
-Excluir:
-  
-  - scripts
-  - README.md
-  - jekyll-theme-hamilton.gemspec
 
 # =========================
   card: summary
