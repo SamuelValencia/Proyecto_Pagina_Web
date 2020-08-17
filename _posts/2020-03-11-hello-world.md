@@ -3,7 +3,6 @@ layout: post
 title: Procesos de desarrollo del software 
 author: Samuel Valencia Mosquera 
 date: 2020-08-15
-tags: [test, hello]
 ---
 
 El objetivo de la ingeniería en software es lograr productos de software de calidad mediante un proceso apoyado por métodos y herramientas, cualquier disciplina de ingeniería debe descansar sobre un esfuerzo de organización de calidad.
