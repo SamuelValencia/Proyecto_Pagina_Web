@@ -2,6 +2,8 @@ title: Proyecto Introduccion
 description: Todo lo aprendido en el  parcial 
 author: Samuel Valencia 
 correo electrónico : samuelvalencia780@gmail.com
+avatar :/ logo.png
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
