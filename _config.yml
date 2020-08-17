@@ -21,14 +21,13 @@ paginate: 10
 # disqus:
 
 # Jekyll
-# ======
-Excluir :   
-  -   Imagen 2020-08-17 a 18.18.02.jpeg
+# =====
+Excluir:
+  
   - scripts
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag (Optional)
 # =========================
   card: summary
 logo: Imagen 2020-08-17 a 18.18.02.jpeg
