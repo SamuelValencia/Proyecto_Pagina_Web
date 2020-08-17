@@ -23,6 +23,7 @@ paginate: 10
 # Jekyll
 # ======
 Excluir :   
+  -   Imagen 2020-08-17 a 18.18.02.jpeg
   - scripts
   - README.md
   - jekyll-theme-hamilton.gemspec
