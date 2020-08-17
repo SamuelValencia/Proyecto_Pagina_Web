@@ -16,11 +16,7 @@ Es un proceso secuencial de desarrollo en el que los pasos de desarrollo son vis
 
 Es el paradigma más antiguo y fue el más utilizado durante la hegemonía del método estructurado, el número de etapas propuestas varía de acuerdo al proyecto a desarrollar, aunque existen etapas comunes para este paradigma.
 
--Definición de los requisitos. En este proceso se identifican las necesidades y requerimientos del cliente con respecto al software.
--Análisis y Diseño. En el análisis se establece la viabilidad del software desde el punto de vista técnico y económico, se planifican las actividades y el presupuesto, en el diseño se centra en cuatro atributos de un programa: estructura de datos, arquitectura del software, representaciones de interfaz y detalle procedimental.Análisis y Diseño.
--Codificación. Se traducir en forma legible por la máquina el modelo previamente diseñado. El paso de generación de código lleva a cabo esta tarea. Si lleva a cabo el diseño de una forma detallada, la generación de código se realiza mecánicamente.
--Pruebas. El proceso de pruebas se centra en los procesos lógico interno del software, y en los procesos externos funcionales.  Se deben realizar las pruebas para detección de errores y asegurarse que las entradas definidas produzcan resultados reales que concuerden con los resultados requeridos.
--Mantenimiento. El software indudablemente sufrirá cambios después de ser entregado al cliente. El mantenimiento vuelve a aplicar cada una de las fases precedentes a un programa ya existente y no a uno nuevo.
+-   Definición de los requisitos. En este proceso se identifican las necesidades y requerimientos del cliente con respecto al software.
 
 ## Another great heading (h2)
 
