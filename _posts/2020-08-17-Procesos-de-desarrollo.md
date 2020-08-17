@@ -61,15 +61,3 @@ Se usa para referirse a cualquier actividad relacionada con representaciones mat
 Una especificación formal del software es una especificación expresada en un lenguaje cuyo vocabulario, sintaxis y semántica están formalmente bien definidos. Esta necesidad de una definición formal significa que los lenguajes de especificación deben basarse en conceptos matemáticos cuyas propiedades se comprendan bien. La rama de las matemáticas usadas es la de matemática discreta, y los conceptos matemáticos provienen de la teoría de conjuntos, la lógica y el álgebra.
 
 En la década de los 80, muchos investigadores de ingeniería del software propusieron que el uso de métodos formales de desarrollo era la mejor forma de mejorar la calidad del software. Argumentaban que el rigor y el análisis detallado, que son una parte esencial de los métodos formales, podrían dar lugar a programas con menos errores y más adecuados a las necesidades de los usuarios.  Predijeron que, en el siglo XXI, una gran proporción del software estaría desarrollado usando métodos formales. Esta predicción no se ha hecho realidad por cuatro razones principales que son las siguientes.
-
-
-1 .   Una ingeniería del software exitosa.
-2.   Cambio en el mercado .
-3.   Ambitos limitados de los metodos formales .
-4.   Escalabilidad limitada  de los metodos formales.
-
-
-
-
-
-
