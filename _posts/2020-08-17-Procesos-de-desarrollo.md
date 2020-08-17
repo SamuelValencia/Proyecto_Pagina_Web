@@ -32,21 +32,44 @@ No poseen la funcionalidad total del sistema, pero si condensa la idea principal
 
 En un desarrollo iterativo e incremental el proyecto se planifica en diversos bloques temporales llamados iteraciones, las iteraciones se pueden entender como mini proyectos: en todas las iteraciones se repite un proceso de trabajo similar para proporcionar un resultado completo sobre producto final, de manera que el cliente pueda obtener los beneficios del proyecto de forma incremental.
 
-Cada requisito se debe completar en una única iteración: el equipo debe realizar todas las tareas necesarias para completarlo (incluyendo pruebas y documentación) y que esté preparado para entregar al cliente con el mínimo esfuerzo necesario. De esta manera no se deja para el final del proyecto ninguna actividad arriesgada relacionada con la entrega de requisitos. 
+Cada requisito se debe completar en una única iteración: el equipo debe realizar todas las tareas necesarias para completarlo (incluyendo pruebas y documentación) y que esté preparado para entregar al cliente con el mínimo esfuerzo necesario. De esta manera no se deja para el final del proyecto ninguna actividad arriesgada relacionada con la entrega de requisitos.
 
-### Tables
+## Modelo componentes
 
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+Un diagrama de componentes es un diagrama representado en el Lenguaje Unificado de Modelado. Simboliza como un sistema de software es dividido en componentes y muestra las dependencias entre estos componentes.
+
+Los componentes físicos incluyen archivos, cabeceras, bibliotecas compartidas, módulos, ejecutables, o paquetes. Estos diagramas prevalecen en el campo de la arquitectura de software, pero pueden ser usados para modelar y documentar cualquier arquitectura de sistema, debido a que los diagramas de componentes son más parecidos a los diagramas de usos, estos son utilizados para modelar la vista estática y dinámica de un sistema.
+
+Muestra la organización y las dependencias entre un conjunto de componentes. No es necesario que un diagrama incluya todos los componentes del sistema, normalmente se realizan por partes y cada diagrama describe un apartado del sistema. 
+
+##  Modelo orientado a objetos 
+
+Los métodos de diseño estructurado surgieron para tutelar a los desarrolladores que intentaban construir sistemas complejos utilizando algoritmos como bloques fundamentales para la construcción de estos sistemas. Así, los métodos de diseño orientado a objetos han surgido para ayudar a los desarrolladores a explotar la potencia expresiva de los lenguajes de programación basados en objetos y orientados a objetos, utilizando las clases y los objetos como bloques básicos de construcción. La metodología orientada a objetos es un principio de desarrollo evolutivo, no revolucionario, porque no rompe con los avances del pasado, sino que los reestructura y los afianza de una forma que el desarrollo de aplicaciones o sistemas es mucho más sencillo y su proceso de desarrollo mucho más dinámico que con otras metodologías estructuradas.
+
+El Diseño orientado a objetos (DOO) es el método que lleva una descomposición Orientada a Objetos, aplicando DOO, se crea software resistente al cambio y escrito con economía de expresión; se logra un mayor nivel de confianza en la corrección del software a través de la división inteligente de su espacio de estados y, en última instancia, se reducen los riesgos inherentes al desarrollo de sistemas.
+
+## Modelo Espiral 
+
+Tiene la finalidad de paliar los inconvenientes del modelo en cascada y adecuar el desarrollo por prototipos a problemas complejos, este paradigma combina el paradigma de cascada y el de construcción por prototipos, agregando una etapa de "análisis de riesgo".
+
+Es un modelo de ciclo de vida orientado a riesgos que divide un proyecto software en mini proyectos y donde cada mini proyecto se centra en uno o más riesgos importantes hasta que todos estos estén controlados. Este modelo se realiza en varias iteraciones; se parte de una escala pequeña la cual comienza con la identificación de objetivos, alternativas y restricciones; en medio de la espiral, se localizan riesgos, se genera un plan para manejarlos, y a continuación se establece una aproximación a la siguiente iteración.
+
+## Modelo Formal
+
+Se usa para referirse a cualquier actividad relacionada con representaciones matemáticas del software, incluyendo la especificación formal de sistemas, análisis y demostración de la especificación, el desarrollo transformacional y la verificación de programas. Todas estas actividades dependen de una especificación formal del software.
+
+Una especificación formal del software es una especificación expresada en un lenguaje cuyo vocabulario, sintaxis y semántica están formalmente bien definidos. Esta necesidad de una definición formal significa que los lenguajes de especificación deben basarse en conceptos matemáticos cuyas propiedades se comprendan bien. La rama de las matemáticas usadas es la de matemática discreta, y los conceptos matemáticos provienen de la teoría de conjuntos, la lógica y el álgebra.
+
+En la década de los 80, muchos investigadores de ingeniería del software propusieron que el uso de métodos formales de desarrollo era la mejor forma de mejorar la calidad del software. Argumentaban que el rigor y el análisis detallado, que son una parte esencial de los métodos formales, podrían dar lugar a programas con menos errores y más adecuados a las necesidades de los usuarios.  Predijeron que, en el siglo XXI, una gran proporción del software estaría desarrollado usando métodos formales. Esta predicción no se ha hecho realidad por cuatro razones principales que son las siguientes.
 
 
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+1 .   Una ingeniería del software exitosa.
+2.   Cambio en el mercado .
+3.   Ambitos limitados de los metodos formales .
+4.   Escalabilidad limitada  de los metodos formales.
+
+
+
+
+
+
