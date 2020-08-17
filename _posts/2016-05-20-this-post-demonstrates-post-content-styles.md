@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Principales  modelos para el desarrollo de Software"
 categories: junk
-tags: [markdown, css, html]
 author:
-  - Bart Simpson
-  - Nelson Mandela Muntz
+  Tarea 2 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+El proceso de desarrollo del software tiene como propósito la producción eficaz y eficiente de un producto software que reúna los requisitos del cliente. Un producto en software en si es complejo, es inviable conseguir un 100% de confiabilidad de un programa así sea pequeño.
+
+No existe un proceso universal que sea efectivo para todos los contextos de proyectos de desarrollo, debito a esta diversidad es difícil automatizar todo un proceso de desarrollo de software, existe un conjunto de actividades fundamentales que se encuentran presentes en todos ellos.
 
 ## Some great heading (h2)
 
